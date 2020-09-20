@@ -1,19 +1,14 @@
 {
-  "name": "Test_Bot",
+  "name": "telegram-bots",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "@botsohbet",
+  "author": "",
   "license": "ISC",
   "dependencies": {
-    "dotenv": "^8.2.0",
     "telegraf": "^3.38.0"
-  },
-  "engines": {
-    "node": "12.x"
   }
 }
